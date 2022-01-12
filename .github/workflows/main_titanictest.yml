@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'titanictest'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_02A0BBDD24E54C6BAE39A0F0089C2191 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_842D342677F74D7980A7516272DC29E6 }}
